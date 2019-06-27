@@ -1,0 +1,12 @@
+Variable Name,Description
+Target,Person experienced  Financial Distress for 2 years
+Utilization,Total balance on credit cards and personal lines of credit divided by the sum of credit limits
+age,Age
+FD_ind1,Number of times borrower has been in Finanacial distress for  30-59 days
+DebtRatio,Monthly debt payments
+MonthlyIncome,Monthly income
+FD_ind2,Number of Open loans 
+FD_ind3,Number of times borrower has been 90 days or more past due on re paying
+FD_ind4,Number of mortgage and real estate loans including home equity lines of credit
+FD_ind5,Number of times borrower has been 60-89 days past due but no worse in the last 2 years.
+NumberOfDependents,Number of dependents in family excluding themselves
